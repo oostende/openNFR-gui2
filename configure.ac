@@ -839,26 +839,6 @@ AC_CONFIG_FILES([Makefile
 	lib/python/Plugins/Makefile
 	lib/python/Plugins/Extensions/Makefile
 	lib/python/Plugins/Extensions/MiniTV/Makefile
-	lib/python/Plugins/Extensions/bmediacenter/Makefile
-	lib/python/Plugins/Extensions/bmediacenter/meta/Makefile
-	lib/python/Plugins/Extensions/bmediacenter/src/Makefile
-	lib/python/Plugins/Extensions/bmediacenter/src/converter/Makefile
-	lib/python/Plugins/Extensions/bmediacenter/src/Config/Makefile
-	lib/python/Plugins/Extensions/bmediacenter/src/Skin/Makefile
-	lib/python/Plugins/Extensions/bmediacenter/src/Font/Makefile
-	lib/python/Plugins/Extensions/bmediacenter/src/Icon/Makefile
-	lib/python/Plugins/Extensions/bmediacenter/src/Icon/WeatherIcons/Makefile
-	lib/python/Plugins/Extensions/bmediacenter/src/icons/Makefile
-	lib/python/Plugins/Extensions/bmediacenter/src/icons/70x70/Makefile
-	lib/python/Plugins/Extensions/bmediacenter/src/radio/Makefile
-	lib/python/Plugins/Extensions/bmediacenter/src/renderer/Makefile
-	lib/python/Plugins/Extensions/bmediacenter/src/saver/Makefile
-	lib/python/Plugins/Extensions/bmediacenter/src/skins/Makefile
-	lib/python/Plugins/Extensions/bmediacenter/src/skins/defaultHD/Makefile
-	lib/python/Plugins/Extensions/bmediacenter/src/skins/defaultHD/images/Makefile
-	lib/python/Plugins/Extensions/bmediacenter/src/locale/Makefile
-	lib/python/Plugins/Extensions/bmediacenter/src/locale/de/LC_MESSAGES/Makefile
-	lib/python/Plugins/Extensions/bmediacenter/src/locale/de/Makefile
 	lib/python/Plugins/Extensions/CutListEditor/Makefile
 	lib/python/Plugins/Extensions/CutListEditor/meta/Makefile
 	lib/python/Plugins/Extensions/DVDBurn/Makefile
